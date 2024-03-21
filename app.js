@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 //add new feature-buttongit
-=======
-//add new feature-form
->>>>>>> feature
+//add new feature-form.
+
